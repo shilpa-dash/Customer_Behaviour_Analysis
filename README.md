@@ -79,7 +79,7 @@ Built an interactive dashboard to visualize customer behavior and business perfo
 
 ## Project Structure
 
-```text
+
 Customer-Behaviour-Analysis/
 │
 ├── customer_behaviour_analysis.ipynb
@@ -88,7 +88,6 @@ Customer-Behaviour-Analysis/
 ├── Customer_Behaviour_Dashboard.pbix
 ├── dashboard.png
 └── README.md
-```
 
 ## Author
 
