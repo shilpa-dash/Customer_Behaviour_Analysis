@@ -75,7 +75,7 @@ Built an interactive dashboard to visualize customer behavior and business perfo
 - Average customer review rating remained above 3.7.
 ## Dashboard Preview
 
-  ![Dashboard](Dashboard.png)
+  ![Dashboard](Customer_Shopping_Analysis/Dashboard.png)
 
 ## Project Structure
 
