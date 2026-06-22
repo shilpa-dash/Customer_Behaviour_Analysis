@@ -73,6 +73,10 @@ Built an interactive dashboard to visualize customer behavior and business perfo
 - Fall season generated the highest revenue.
 - Most customers were non-subscribers.
 - Average customer review rating remained above 3.7.
+## Dashboard Preview
+
+  ![Dashboard](Dashboard.png)
+
 ## Project Structure
 
 ```text
